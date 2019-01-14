@@ -76,7 +76,7 @@ or search package::
 
     $ aurman -Ss nano-syntax-highlight
 
-Then you need to mannually add ``.nanorc``-s to user's ``~/.nanorc`` or system ``/etc/nanorc``. See **$2**
+Then you need to manually add ``.nanorc``-s to user's ``~/.nanorc`` or system ``/etc/nanorc``. See `#2 <#2-configure-nano>`_.
 
 Acknowledgement
 ~~~~~~~~~~~~~~~
